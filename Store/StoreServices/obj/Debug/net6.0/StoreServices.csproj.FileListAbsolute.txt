@@ -1,0 +1,15 @@
+D:\Программирование\Product\Store\StoreServices\bin\Debug\net6.0\StoreServices.deps.json
+D:\Программирование\Product\Store\StoreServices\bin\Debug\net6.0\StoreServices.dll
+D:\Программирование\Product\Store\StoreServices\bin\Debug\net6.0\StoreServices.pdb
+D:\Программирование\Product\Store\StoreServices\bin\Debug\net6.0\StoreData.dll
+D:\Программирование\Product\Store\StoreServices\bin\Debug\net6.0\StoreData.pdb
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\StoreServices.csproj.AssemblyReference.cache
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\StoreServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\StoreServices.AssemblyInfoInputs.cache
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\StoreServices.AssemblyInfo.cs
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\StoreServices.csproj.CoreCompileInputs.cache
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\StoreServices.csproj.CopyComplete
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\StoreServices.dll
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\refint\StoreServices.dll
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\StoreServices.pdb
+D:\Программирование\Product\Store\StoreServices\obj\Debug\net6.0\ref\StoreServices.dll

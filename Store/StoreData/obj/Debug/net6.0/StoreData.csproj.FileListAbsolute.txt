@@ -1,0 +1,14 @@
+D:\Программирование\Product\Store\StoreData\bin\Debug\net6.0\StoreData.deps.json
+D:\Программирование\Product\Store\StoreData\bin\Debug\net6.0\StoreData.dll
+D:\Программирование\Product\Store\StoreData\bin\Debug\net6.0\StoreData.pdb
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\StoreData.csproj.AssemblyReference.cache
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\StoreData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\StoreData.AssemblyInfoInputs.cache
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\StoreData.AssemblyInfo.cs
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\StoreData.csproj.CoreCompileInputs.cache
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\StoreData.dll
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\refint\StoreData.dll
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\StoreData.pdb
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\ref\StoreData.dll
+D:\Программирование\Product\Store\StoreData\bin\Debug\net6.0\StoreData.runtimeconfig.json
+D:\Программирование\Product\Store\StoreData\obj\Debug\net6.0\StoreData.genruntimeconfig.cache
